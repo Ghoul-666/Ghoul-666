@@ -1,0 +1,17 @@
+
+.navbar
+{
+    width: 1300px;
+    height: 10vh;
+    background: linear-gradient(#00545d, #000729);
+}
+.navbar-light .navbar-nav .nav-link
+{
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.navbar-light .navbar-nav .nav-hover
+{
+    text-decoration: underline;
+}
